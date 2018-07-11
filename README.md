@@ -1,0 +1,1 @@
+# refresh-cdn-resource
